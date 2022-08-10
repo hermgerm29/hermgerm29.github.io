@@ -22,7 +22,7 @@ J. Herman, J. Francis, S. Ganju, A. Koul, A. Skabelkin, I. Zhukov, A. Gostev, M.
 
 ## Learn-to-Race
 
-Inspired by many recent works using deep reinforcement learning to address highly complex problems, I created [learn-to-race](https://github.com/learn-to-race/l2r), an  OpenAI Gym compliant reinforcement learning & control environment. This work has been featured in ICCV and was used in a [safe learning challenge at ICML](https://learn-to-race.org/workshop-sl4ad-icml2022/).
+Inspired by many recent works using deep reinforcement learning to address highly complex problems, I created [learn-to-race](https://github.com/learn-to-race/l2r), an  OpenAI Gym compliant reinforcement learning & control environment. My hope is that the environment will help advance research in a variety of areas including safe reinforcement learning and multi-modal machine learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-RYPr6Wla4" title="Learning to Race using Reinforcement Learning (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
