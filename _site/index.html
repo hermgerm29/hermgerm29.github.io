@@ -20,7 +20,7 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"About Me","name":"Jimmy Herman","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/jimmy-headshot.jpeg"}},"url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=0b27c91f22f0091395bd2ea1c8fccb46f9eb6e5f">
+    <link rel="stylesheet" href="/assets/css/style.css?v=047d81d5f18f73c5a5c0e5b5f12b5713d03fb297">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -59,11 +59,17 @@
 
       <h2 id="about-me">About Me</h2>
 
-<p>I am currently machine learning engineer at <a href="https://www.intellimize.com/">Intellimize</a>. I previously worked at Carnegie Mellon’s School of Computer Science focusing on various aspects of autonomous racing after starting and leading <a href="https://www.cmu.edu/news/stories/archives/2020/july/roborace.html">CMU’s Roborace team</a> following a master’s program there. Previously, Jimmy performed statistical modeling for 2 years as a pricing actuary, and in the Spring of 2019, became an Associate of the Society of Actuaries. Jimmy played professional footabll for the New York Giants in the preseason of 2017 as an outside linebacker.</p>
+<p>I am currently machine learning engineer at <a href="https://www.intellimize.com/">Intellimize</a>. I previously worked at Carnegie Mellon’s School of Computer Science focusing on various aspects of autonomous racing after starting and leading <a href="https://www.cmu.edu/news/stories/archives/2020/july/roborace.html">CMU’s Roborace team</a> following a master’s program.</p>
 
 <p>My interests span broadly across various aspects of machine learning including building efficient machine learning systems.</p>
 
 <h2 id="experience">Experience</h2>
+
+<p>At Intellimize, I’ve worked on a variety of engineering and machine learning projects including building and shipping a <a href="https://www.intellimize.com/press/intellimize-releases-ai-powered-copy-suggestions-for-marketers-to-instantly-personalize-websites-that-convert-more">fully implicit text recommendation service</a> which provides text variations for any element on a website with no user input [<a href="https://www.linkedin.com/posts/intellimize_convertmore-writing-content-activity-6960991520355217408-iDxf?utm_source=linkedin_share&amp;utm_medium=member_desktop_web">example</a>].</p>
+
+<p>At Carnegie Mellon, I built learn-to-race, a high-fidelity reinforcement learning and control environment, described below. I also was able to achieve near human speed performance in the environment by creating a custom off-policy, asynchronous distributed RL system and running large scale experiments on <a href="https://www.pdl.cmu.edu/index.shtml">CMU PDL’s</a> compute clusters.</p>
+
+<p>Prior to graduate school, I worked as a pricing actuary working primarily on statistical modeling, and in the Spring of 2019, became an Associate of the Society of Actuaries. Additionally, I played professional footabll for the New York Giants in the preseason of 2017 as an outside linebacker.</p>
 
 <h2 id="publications">Publications</h2>
 
@@ -73,10 +79,10 @@
 
 <p>Inspired by many recent works using deep reinforcement learning to address highly complex problems, I created <a href="https://github.com/learn-to-race/l2r">learn-to-race</a>, an  OpenAI Gym compliant reinforcement learning &amp; control environment. This work has been featured in ICCV and was used in a <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/">safe learning challenge at ICML</a>.</p>
 
-<p>I also wrote <a href="https://github.com/hermgerm29/distrib_l2r">distrib_l2r</a> which is a custom, Kubernetes-based distributed approach to training agents with the environment. In partnership with CMU’s Parallel Data Lab, I trained the following Soft Actor-Critic agent to learn-to-race, from scratch, after about 2 million timesteps in the environment.</p>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-RYPr6Wla4" title="Learning to Race using Reinforcement Learning (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p><br /></p>
+
+<p>I also wrote <a href="https://github.com/hermgerm29/distrib_l2r">distrib_l2r</a> which is a custom, Kubernetes-based distributed approach to training agents with the environment. In partnership with CMU’s Parallel Data Lab, I trained the following Soft Actor-Critic agent to learn-to-race, from scratch, after about 2 million timesteps in the environment.</p>
 
 
       </section>
