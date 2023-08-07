@@ -1,18 +1,19 @@
 ## About Me
 
+I am currently a software engineer and technical lead at [Swish Analytics](https://swishanalytics.com/), a next-generation oddsmaker for U.S. sportsbook data specializing in custom parlays, player props, and in-game betting. My ongoing contributions include leading the re-architecture of Swish's core simulation software. The effort has dramatically improved key performance metrics such as in-game latency, cost, server uptime, and model testing velocity.
 
-I am currently machine learning engineer at [Intellimize](https://www.intellimize.com/). I previously worked at Carnegie Mellon's School of Computer Science focusing on various aspects of autonomous racing after starting and leading [CMU's Roborace team](https://www.cmu.edu/news/stories/archives/2020/july/roborace.html) following a master's program.
+Previously, I worked as a machine learning engineer at [Intellimize](https://www.intellimize.com/) and as a researcher at Carnegie Mellon's School of Computer Science focusing on various aspects of autonomous racing after starting and leading [CMU's Roborace team](https://www.cmu.edu/news/stories/archives/2020/july/roborace.html) following a master's program.
 
-My interests span broadly across various aspects of machine learning, and in particular, deep learning.
+My interests span broadly across various aspects of machine learning and software engineering.
 
 
-## Experience
+## Prior Experience
 
-At Intellimize, I've worked on a variety of engineering and machine learning projects including designing and shipping a [fully implicit text recommendation service](https://www.intellimize.com/press/intellimize-releases-ai-powered-copy-suggestions-for-marketers-to-instantly-personalize-websites-that-convert-more) which provides text variations for any element on a website with no user input \[[example](https://www.linkedin.com/posts/intellimize_convertmore-writing-content-activity-6960991520355217408-iDxf?utm_source=linkedin_share&utm_medium=member_desktop_web)\].
+At Intellimize, I worked on a variety of engineering and machine learning projects including designing and shipping a [fully implicit text recommendation service](https://www.intellimize.com/press/intellimize-releases-ai-powered-copy-suggestions-for-marketers-to-instantly-personalize-websites-that-convert-more) which provides text variations for any element on a website with no user input \[[example](https://www.linkedin.com/posts/intellimize_convertmore-writing-content-activity-6960991520355217408-iDxf?utm_source=linkedin_share&utm_medium=member_desktop_web)\]. This was built with OpenAI's API prior to the release of ChatGPT (and newer) models, thus requiring a significant amount of prompt engineering.
 
 At Carnegie Mellon, I built learn-to-race, a high-fidelity reinforcement learning and control environment, described below, which was published at ICCV and featured in a [safe learning workshop at ICML](https://learn-to-race.org/workshop-sl4ad-icml2022/).
 
-Prior to graduate school, I worked as a pricing actuary working primarily on statistical modeling, and in the Spring of 2019, became an Associate of the Society of Actuaries. Additionally, I played professional footabll for the New York Giants in the preseason of 2017 as an outside linebacker.
+Prior to graduate school, I worked as a pricing actuary working primarily on statistical modeling, and in the Spring of 2019, became an Associate of the Society of Actuaries. Additionally, I played professional football for the New York Giants in the preseason of 2017 as an outside linebacker.
 
 
 ## Publications
